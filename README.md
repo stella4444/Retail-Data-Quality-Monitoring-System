@@ -14,7 +14,8 @@ This project demonstrates practical skills in data validation, data quality mana
 * Build dashboards for business users and stakeholders.
 
 ## Dataset
-The project uses a retail or e-commerce product dataset containing product information.
+* Adidas Fashion Retail Products Dataset - from Kaggle
+https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod
 
 ## Key Skills Demonstrated
 ### Data Engineering
