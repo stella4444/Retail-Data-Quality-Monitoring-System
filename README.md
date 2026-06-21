@@ -35,5 +35,5 @@ The project uses a retail or e-commerce product dataset containing product infor
 * Threshold-based alerting
 * Monitoring workflows
 
-### Purpose
+## Purpose
 Created as a portfolio project to demonstrate practical skills in data quality management, SQL development, data analytics, business intelligence, and automation.
