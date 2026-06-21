@@ -15,7 +15,17 @@ This project demonstrates practical skills in data validation, data quality mana
 
 ## Dataset
 * Adidas Fashion Retail Products Dataset - from Kaggle
-https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod
+(https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod)
+
+### Required Fields
+* sku
+* name
+* category
+* selling_price
+* original_price
+* availability
+* average_rating
+* reviews_count
 
 ## Key Skills Demonstrated
 ### Data Engineering
